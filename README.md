@@ -17,9 +17,8 @@ https://github.com/user-attachments/assets/2e4ac9ee-e58d-4070-ac7a-0b809c0fd679
 Use [image2cpp](https://javl.github.io/image2cpp/) with 64x64 black and white .bmp files.
 By default there are 8 directions:　N, NW, W、SW, S, SE, E, NE
 
-### OLED wiring to the Wemo D1 Mini
+### OLED wiring to the Wemos D1 Mini (SPI)
 
-OLED <-> Wemos D1 Mini
 * GND <-> GND
 * VCC <-> 3V3
 * D0 <-> D5 (GPIO14)
@@ -28,9 +27,8 @@ OLED <-> Wemos D1 Mini
 * DC <-> D4 (GPIO2)
 * RST <-> D0 (GPIO16)
 
-### CMPS14 Wiring (I²C)
+### CMPS14 Wiring to the Wemos D1 Mini (I²C)
 
-CMPS14 <-> Wemos D1 Mini
 * SDA <-> D2 (GPIO4)
 * SCL <-> D1 (GPIO5
 * VCC <-> 3V3)
