@@ -4,7 +4,7 @@ A cute little tilt compensated compass with a CMPS14 and an esp32.
 
 Featuring my dagon, [Thistle](https://i.imgur.com/QAG7xas.jpeg).
 
-# Video: 
+## Video: 
 
 https://github.com/user-attachments/assets/2e4ac9ee-e58d-4070-ac7a-0b809c0fd679
 
@@ -36,7 +36,7 @@ By default there are 8 directions:　N, NW, W、SW, S, SE, E, NE
 * VCC <-> 3V3)
 * GND <-> GND
 
-## Libraries:**
+### Libraries:
 * Adafruit SSD1306
 * Adafruit GFX
 * Wire
