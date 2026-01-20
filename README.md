@@ -2,6 +2,8 @@
 
 A cute little tilt compensated compass with a CMPS14 and an esp32.
 
+Featuring my dagon, [Thistle](https://i.imgur.com/QAG7xas.jpeg).
+
 # Video: 
 
 https://github.com/user-attachments/assets/2e4ac9ee-e58d-4070-ac7a-0b809c0fd679
