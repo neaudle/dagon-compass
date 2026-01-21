@@ -1,21 +1,19 @@
 # dagon-compass
 
-A cute little tilt compensated compass with a CMPS14 and an esp32.
-
-Featuring my dagon, [Thistle](https://i.imgur.com/QAG7xas.jpeg).
+A cute little tilt compensated compass with a CMPS14 and an esp32, featuring my dagon [Thistle](https://i.imgur.com/QAG7xas.jpeg).
 
 ## Video: 
 
 https://github.com/user-attachments/assets/2e4ac9ee-e58d-4070-ac7a-0b809c0fd679
 
+---
 
-## Hardware
+## Hardware you need
 
 * Wemos D1 mini (ESP8266)
-* CMPS14 (The CMPS12 might work but I haven't tested it)
+* CMPS14 (The CMPS12 looks like it'd work based on the addresses, but I don't have one to test)
 * 128×64 SSD1306 0.96" OLED (Important: get the 7 pin SPI version!)
 
----
 
 ## How to upload it to the D1 Mini
 
