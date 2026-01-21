@@ -1,6 +1,6 @@
 # dagon-compass
 
-A cute little tilt compensated compass with a CMPS14 and an esp32, featuring my dagon [Thistle](https://i.imgur.com/QAG7xas.jpeg).
+A cute little tilt compensated compass with a CMPS14 and an esp8266, featuring my dagon [Thistle](https://i.imgur.com/QAG7xas.jpeg).
 
 ## Video: 
 
