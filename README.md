@@ -15,13 +15,17 @@ https://github.com/user-attachments/assets/2e4ac9ee-e58d-4070-ac7a-0b809c0fd679
 * CMPS14 (The CMPS12 might work but I haven't tested it)
 * 128×64 SSD1306 0.96" OLED (Important: get the 7 pin SPI version!)
 
-# To upload to the Wemos
+---
+
+## How to upload it to the D1 Mini
+
 Visual Studio Code with the Platformio extension is the easiest.
 
 Everything important is in /src/main.cpp and /src/platformio.ini.
 
 ### How to make your own custom images
 Use [image2cpp](https://javl.github.io/image2cpp/) with 64x64 black and white .bmp files.
+
 By default there are 8 directions:　N, NW, W、SW, S, SE, E, NE
 
 ### OLED wiring to the Wemos D1 Mini (SPI)
