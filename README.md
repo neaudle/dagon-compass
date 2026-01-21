@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/2e4ac9ee-e58d-4070-ac7a-0b809c0fd679
 
 ## How to upload it to the D1 Mini
 
-Visual Studio Code with the Platformio extension is the easiest.
+Visual Studio Code with the Platformio extension is the easiest; just open the project folder in PlatformIO and hit upload.
 
 Everything important is in /src/main.cpp and /src/platformio.ini.
 
