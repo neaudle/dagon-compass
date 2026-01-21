@@ -40,7 +40,7 @@ By default there are 8 directions:　N, NW, W、SW, S, SE, E, NE
 
 * SDA <-> D2 (GPIO4)
 * SCL <-> D1 (GPIO5
-* VCC <-> 3V3)
+* VCC <-> 3V3 or 5V (CMPS14 seems to like ~5v a smidge better)
 * GND <-> GND
 
 ### Libraries:
