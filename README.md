@@ -44,6 +44,6 @@ By default there are 8 directions:　N, NW, W、SW, S, SE, E, NE
 * GND <-> GND
 
 ### Libraries:
-* Adafruit SSD1306
-* Adafruit GFX
-* Wire
+* [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+* [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+* [Arduino Core / Wire](https://github.com/arduino/ArduinoCore-avr/blob/master/libraries/Wire/src/Wire.h)
