@@ -311,6 +311,9 @@ const unsigned char* const dragonSprites[8] = {
 
 void setup() {
   Wire.begin(4, 5); // SDA=D2 (GPIO4), SCL=D1 (GPIO5)
+  if(!display.begin(SSD1306_SWITCHCAPVCC)) { 
+    for(;;); 
+  }
   display.clearDisplay();
   display.setTextColor(SSD1306_WHITE);
 }
