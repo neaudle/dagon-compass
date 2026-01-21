@@ -30,8 +30,8 @@ By default there are 8 directions:　N, NW, W、SW, S, SE, E, NE
 
 * GND <-> GND
 * VCC <-> 3V3
-* D0 <-> D5 (GPIO14)
-* D1 <-> D7 (GPIO13)
+* D0 / SCL <-> D5 (GPIO14)
+* D1 / SDA <-> D7 (GPIO13)
 * CS <-> D8 (GPIO15)
 * DC <-> D4 (GPIO2)
 * RST <-> D0 (GPIO16)
